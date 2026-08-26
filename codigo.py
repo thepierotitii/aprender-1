@@ -1,4 +1,4 @@
-nombre ="pepee"
-apellido ="Dalto"
+nombre ="pierito"
+apellido ="arapa"
 saludo = "hola" + nombre + " "+ apellido
 print(2+2)
